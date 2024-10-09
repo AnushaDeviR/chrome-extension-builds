@@ -43,8 +43,6 @@
             |__ icon1.png (contains the logo or the icon files which is usually in 16x16 pixel)
 ```
 
--
-
 ## References:
 
-- ![Chrome documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world)
+- [Chrome documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world)
