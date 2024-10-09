@@ -15,7 +15,7 @@
 }
 ```
 
-    - where `action` contain the html page and logo used for the extension
+- where `action` contain the html page and logo used for the extension
 
 2. Usually the extension directory is loaded onto the extensions page with the developer mode on via the `Load unpacked` button.
 
