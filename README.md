@@ -2,7 +2,8 @@
 
 Contains mini projects built referring from the chrome extension documentation
 
-| Project Title  | Notes |
-| ------------- | ------------- |
-| [Basics](basics)  | Contains introduction to chrome extension basics  |
-| ... | ... |
+| Project Title                                       | Notes                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------------- |
+| [Basics](basics)                                    | Contains introduction to chrome extension basics                    |
+| [Run scripts on every page](reading-time-extension) | More in-depth details on manifest.json and intro to content scripts |
+| ...                                                 | ...                                                                 |
